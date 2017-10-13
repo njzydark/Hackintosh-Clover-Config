@@ -2,25 +2,16 @@
 四代笔记本黑苹果Clover配置文件
 
 ## 笔记本配置
-> 电脑型号             MECHREVO X6S
-
-> 操作系统             Windows10+macOS 10.12.6 
-
-> 处理器               i5-4210M
-
-> 主板                Haswell - Lynx Point
-
-> 显卡                HD4600+GTX960M
-
-> 内存                8G
-
-> 硬盘                64G SSD+128G SSD+1T HDD
-
-> 声卡                ALC269vc
-
-> 有线网卡             RTL8111
-
-> 无线网卡             BCM43224HMS
+	  电脑型号             MECHREVO X6S
+	  操作系统             Windows10+macOS 10.12.6 
+	  处理器               i5-4210M
+	  主板                Haswell - Lynx Point
+	  显卡                HD4600+GTX960M
+	  内存                8G
+	  硬盘                64G SSD+128G SSD+1T HDD
+	  声卡                ALC269vc
+	  有线网卡             RTL8111
+	  无线网卡             BCM43224HMS
 
 ## 工作情况
 * 核显工作正常，独显屏蔽
